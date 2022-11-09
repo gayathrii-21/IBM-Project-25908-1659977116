@@ -63,5 +63,4 @@ IBM Cloud, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebo
 To provide Analytics to improve New Marks and grow the business .
 
 # From the  Francis Xavier Engineering College
-
-        #Thank You❣️
+Thank You❣️
