@@ -42,7 +42,7 @@ Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
 until its eventual bankruptcy closed the doors in 1983. 
 At its peak, DHL Air Cargo employed just over 100 workers, management, and pilots.
 ```
-For detailed Project Overview: [[CLICK HERE]](file:///C:/Users/user/Downloads/Data%20Analytics%20For%20DHL%20Logistics%20Facilities.pdf)
+For detailed Project Overview: [[CLICK HERE]](https://drive.google.com/file/d/1BbNDbnTQ-bBJiO8GTfP8vH0IfVZLng0C/view)
 
 
 # **🎯Skills Required:**
